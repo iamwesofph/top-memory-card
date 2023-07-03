@@ -96,7 +96,7 @@ export default function MemoryGame() {
     <>
       <img src={hadesLogo} alt="hades logo" className='hadeslogo'/>
       <h1>Memory Game</h1>
-      <h2>Never ask the same God twice!</h2>
+      <h2>XNever ask the same God twice!X</h2>
       <GameOver score={score} onNewGameClick={startNewGame} show={isGameOver} />
       <ScoreBar score={score} bestScore={bestScore} />
       <Cards characters={characters} handleCharacterClick={handleCharacterClick} />
