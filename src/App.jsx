@@ -3,13 +3,13 @@ import { useEffect, useState } from 'react'
 import './App.css'
 import aphrodite from './assets/Aphrodite.webp'
 import ares from './assets/Ares.webp'
-import artemis from './assets/artemis.webp'
+import artemis from './assets/Artemis.webp'
 import athena from './assets/Athena.webp'
 import poseidon from './assets/Poseidon.webp'
 import thanatos from './assets/Thanatos.webp'
 import zeus from './assets/Zeus.webp'
 import zagreus from './assets/Zagreus.webp'
-import hadesLogo from './assets/hades_logo.webp'
+import hadesLogo from './assets/Hades_Logo.webp'
 
 
 // let initialCharacters = [aphrodite, ares, artemis, athena, poseidon, thanatos, zeus, zagreus];
